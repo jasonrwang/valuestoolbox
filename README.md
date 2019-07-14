@@ -14,6 +14,12 @@ The process works best where there are distinct strategies and participants are 
 
 Find the organizer's guide [here]().
 
+### See it in action
+
+![DDfV Example Video](https://www.youtube.com/watch?v=ZGeazX2WYbE)
+
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZGeazX2WYbE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 ## Features and Roles
 * This project has been used with ... _examples_
 
