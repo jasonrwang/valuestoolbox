@@ -1,37 +1,27 @@
-## Welcome to GitHub Pages
+# Values Deliberation Toolbox
 
-You can use the [editor on GitHub](https://github.com/jasonrwang/valuestoolbox/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+Our societies often face complex problems where there are many differing views on how to resolve them. Sometimes, different individuals or groups might even have conflicting objectives for these problems. For example, high stakes policy programs like the energy transition and large infrastructure projects involve many stakeholders with a wide gamut of perspectives. We present a new (novel) methodology to accelerate the strategizing process by helping stakeholders understand each other’s values that they associate with different solutions to the problem.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Beyond more traditional approaches, research has shown that participants may cooperate if they understand each other’s values and why they prefer certain solutions. By discussing their values with one another, they may see more commonalities with each other or empathize for others’ concerns that they might have dismissed before. Our framework allows a facilitator to guide conflicting participants towards commonly agreeable strategies by encouraging a value-based discussion between the participants.
 
-### Markdown
+The process works best where there are distinct strategies and participants are willing to listen to, work with, and cooperate with one another.  The overall objective is for them to better understand each other and become more willing to cooperate.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+## Try it out!
 
-```markdown
-Syntax highlighted code block
+[Download]()
 
-# Header 1
-## Header 2
-### Header 3
+[See on GitHub](https://github.com/jasonrwang/valuestoolbox/)
 
-- Bulleted
-- List
+Find the organizer's guide [here]().
 
-1. Numbered
-2. List
+## Features and Roles
+* This project has been used with ... _examples_
 
-**Bold** and _Italic_ and `Code` text
+## Papers
+1.
+1.
+1.
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/jasonrwang/valuestoolbox/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+## Contact
+* Klara Pigmans ([K.A.M.Pigmans@tudelft.nl](mailto:K.A.M.Pigmans@tudelft.nl))
+* Tino Mager ([B.T.Mager@tudelft.nl](mailto:B.T.Mager@tudelft.nl))
