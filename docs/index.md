@@ -6,7 +6,7 @@ Beyond more traditional approaches, research has shown that participants may coo
 
 The process works best where there are distinct strategies and participants are willing to listen to, work with, and cooperate with one another.  The overall objective is for them to better understand each other and become more willing to cooperate.
 
-## Try it out!
+## Try It Out
 
 [Download](https://github.com/jasonrwang/valuestoolbox/archive/master.zip)
 
