@@ -10,9 +10,14 @@ The process works best where there are distinct strategies and participants are 
 
 [Download](https://github.com/jasonrwang/valuestoolbox/archive/master.zip)
 
-[See on GitHub](https://github.com/jasonrwang/valuestoolbox/)
+The zip file includes:
 
-Find the organizer's guide [here](organizers.md).
+* Poster – helps compile and organize participants' arguments and values
+* Organizer's Guide – same information as in [here](organizers.md) but in a printable format
+* Facilitator's Guide – printed document for facilitators
+* Ranking calculator – Excel template for quickly calculating the overall rankings
+
+[See on GitHub](https://github.com/jasonrwang/valuestoolbox/)
 
 ### See it in action
 
