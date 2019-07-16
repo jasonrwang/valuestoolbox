@@ -2,16 +2,16 @@
 
 Table of Contents
 
-* [Section one](#one)
-* [Qualities of a Good Facilitator](#qualities)
+* [Section one](#-heading-1)
+* [Qualities of a Good Facilitator](#-qualities-of-a-good-facilitator)
 
-## <a name="one"></a> Heading 1
+## Heading 1
 
 Lorem ipsum dolor sit amet, consectetur adipiscing elit. Phasellus imperdiet nisi vitae laoreet convallis. Nunc commodo luctus ipsum, sit amet consequat enim bibendum in. Nam tempor quis libero a pharetra. Phasellus neque enim, semper ut luctus ut, pulvinar at justo. Duis vulputate varius rhoncus. Ut tellus nisl, mattis vitae ultrices vel, lobortis eget lacus. Sed blandit finibus malesuada. Suspendisse aliquet nulla dui, sit amet bibendum ligula maximus a.
 
 Maecenas laoreet dapibus nisl, vel fringilla tellus fermentum eget. Ut sit amet dolor id tellus consequat ultricies sit amet vel leo. Etiam nibh sapien, feugiat vitae mattis id, vehicula et ligula. Aenean a arcu vel nunc ultricies iaculis a eu magna. Proin pellentesque fermentum nisl at tempus. Aenean in lacus quis turpis sodales aliquet. Nam dapibus tempus leo, at ornare sem bibendum eu. Ut varius felis ac felis rhoncus rhoncus. Proin in enim at nisl varius pellentesque. Phasellus consequat erat eget fermentum interdum. Fusce placerat lacinia nibh ut tincidunt. Fusce ornare maximus eros. Sed et dignissim purus. In tincidunt tortor consectetur enim pretium ullamcorper.
 
-## <a name="qualities"></a> Qualities of a Good Facilitator
+## Qualities of a Good Facilitator
 
 Pellentesque ut augue ac magna accumsan mollis. Vestibulum eu vehicula tortor. Nunc sed nibh et enim luctus ultrices et at felis. Nulla in arcu ornare, aliquet tortor sit amet, pretium eros. Curabitur ultrices sem quis felis feugiat molestie. Pellentesque a elit pellentesque, semper est at, fringilla eros. Morbi volutpat lectus ac dui venenatis lobortis. Maecenas elementum tellus eget ornare efficitur. Donec tellus nisi, laoreet non mi eu, iaculis semper sem. Integer vel lacus eget leo scelerisque iaculis.
 
