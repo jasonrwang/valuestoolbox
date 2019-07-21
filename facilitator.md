@@ -1,4 +1,5 @@
 Select the facilitators based on following:
+
 1)Neutrality-Facilitator should be neutral to ensure that he/she does not pick any side during the discussion 
 
 2)Active listening-Through paraphrasing and active listening, he/she must set tone for respectful and positive interaction and also perceive what needs to be brought in discussion if certain elements are missing
