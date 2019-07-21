@@ -24,17 +24,17 @@ Facilitators must be explained the significance of each and every step of the me
 
 ## Logistical information
 
-### Diversity of participants
+### 1)Diversity of participants
 
 It is important that the group be as diverse as possible to take into account perspectives of all stakeholders in a group. However, it heterogeneity is not possible, the discussion could go on in a homogenous group as well.
 
-### Number of participants
+### 2)Number of participants
 
 Ideally, there should not be more than 10 participants in a single group since it becomes difficult for the facilitator to manage the group as the number of participants increase and also it is difficult for the participants to interact with more than 10 members. 
 
-### [Materials needed](https://github.com/ruchik1504/valuestoolbox/blob/master/MaterialsNeeded.md)
+### 3)[Materials needed](https://github.com/ruchik1504/valuestoolbox/blob/master/MaterialsNeeded.md)
 
-### Picking the space
+### 4)Picking the space
 In essence, the space needs to be picked based on the number of participants. As mentioned earlier each group would have around 10 participants so depending on the number of groups, a large hall or multiple small rooms (depending on the number of groups) need to be reserved.
 
 
