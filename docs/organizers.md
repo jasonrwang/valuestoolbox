@@ -20,7 +20,7 @@ There are few points that must be taken into account to ensure that the stakehol
 
 Facilitators must be explained the significance of each and every step of the methodology. They must also be trained about dealing with different situations that may arise during the actual deliberation process. Apart from the facilitator's guide that is provided to them, they must be briefed before the actual session on the topic, alternatives and general methodology and points that must be covered during the discussion. 
 
-[More information about selecting facilitators](https://www.google.com)
+[More information about selecting facilitators](https://github.com/ruchik1504/valuestoolbox/blob/master/facilitator.md)
 
 ## Logistical information
 
@@ -32,7 +32,7 @@ It is important that the group be as diverse as possible to take into account pe
 
 Ideally, there should not be more than 10 participants in a single group since it becomes difficult for the facilitator to manage the group as the number of participants increase and also it is difficult for the participants to interact with more than 10 members. 
 
-### [Materials needed](https://www.google.com)
+### [Materials needed](https://github.com/ruchik1504/valuestoolbox/blob/master/MaterialsNeeded.md)
 
 ### Picking the space
 In essence, the space needs to be picked based on the number of participants. As mentioned earlier each group would have around 10 participants so depending on the number of groups, a large hall or multiple small rooms (depending on the number of groups) need to be reserved.
