@@ -3,7 +3,7 @@
 Table of Contents
 
 * [A Brief Introduction](#a-brief-introduction)
-* [Involve the stakeholders](#involve-the-stakeholders)
+* [Involve the Stakeholders](#involve-the-stakeholders)
 * [Select the Facilitators](#select-the-facilitators)
 * [Logistical Information](#logistical-information)
 
