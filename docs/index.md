@@ -1,6 +1,8 @@
 # Values Deliberation Toolbox
 
-## _This webpage is a work in progress_
+_This webpage is a work in progress_
+
+[![Deliberation Photo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Haagse-magistraat.jpg/800px-Haagse-magistraat.jpg)](https://commons.wikimedia.org/wiki/File:Haagse-magistraat.jpg)
 
 Our societies often face complex problems where there are many differing views on how to resolve them. Sometimes, different individuals or groups might even have conflicting objectives for these problems. For example, high stakes policy programs like the energy transition and large infrastructure projects involve many stakeholders with a wide gamut of perspectives. We present a new (novel) methodology to accelerate the strategizing process by helping stakeholders understand each other’s values that they associate with different solutions to the problem.
 
@@ -20,10 +22,6 @@ The zip file includes:
 * Ranking calculator – Excel template for quickly calculating the overall rankings
 
 [See on GitHub](https://github.com/jasonrwang/valuestoolbox/)
-
-### See it in action
-
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/ZGeazX2WYbE" frameborder="0" allow="accelerometer; autoplay; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 
 ## Features and Roles
 
