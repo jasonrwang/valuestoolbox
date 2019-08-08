@@ -32,7 +32,8 @@ It is important that the group be as diverse as possible to take into account pe
 
 Ideally, there should not be more than 10 participants in a single group since it becomes difficult for the facilitator to manage the group as the number of participants increase and also it is difficult for the participants to interact with more than 10 members. 
 
-### 3)[Materials needed](https://github.com/ruchik1504/valuestoolbox/blob/master/MaterialsNeeded.md)
+### 3)Materials needed
+you can find all the materials needed to conduct the facilitation [here](https://github.com/ruchik1504/valuestoolbox/blob/master/MaterialsNeeded.md)
 
 ### 4)Picking the space
 In essence, the space needs to be picked based on the number of participants. As mentioned earlier each group would have around 10 participants so depending on the number of groups, a large hall or multiple small rooms (depending on the number of groups) need to be reserved.
