@@ -2,10 +2,10 @@
 
 Table of Contents
 
-* [A brief introduction](#-A-brief-introduction)
-* [Involve the stakeholders](#-Involve-the-stakeholders)
-* [Select the Facilitators](#-Select-the-Facilitators)
-* [Logistical information](#-Logistical-information)
+* [A Brief Introduction](#a-brief-introduction)
+* [Involve the stakeholders](#involve-the-stakeholders)
+* [Select the Facilitators](#select-the-facilitators)
+* [Logistical Information](#logistical-information)
 
 ## A Brief Introduction
 
@@ -26,7 +26,7 @@ Below are some qualities important for facilitors to have:
 3. Value for diversity - The diverse stakeholders must feel an integral part of the discussion and a facilitator who values diversity can create a positive environment in which all stakeholders can freely express their opinion
 4. Time management - It is important to effectively structure the perspective of different stakeholders in the limited time available and to steer the discussion towards the main topic in case it is diverging from it. This requires efficient time management on part of the facilitators
 
-## Logistical information
+## Logistical Information
 
 ### 1) Diversity of participants
 
