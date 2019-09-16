@@ -1,6 +1,6 @@
 # Values Deliberation Toolbox
 
-_This webpage is a work in progress_
+![Deliberation Photo](./valuestoolbox.png)
 
 [![Deliberation Photo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Haagse-magistraat.jpg/800px-Haagse-magistraat.jpg)](https://commons.wikimedia.org/wiki/File:Haagse-magistraat.jpg)
 
