@@ -25,7 +25,7 @@ The zip file includes:
 
 ## Features and Roles
 
-* This project has been used with ... _examples_
+* The Value based Deliberation toolbox has been successfully applied to the Port-City futures conference held at TU Delft in Nov, 2018. Different stakeholders from Academia, Industry, Port and Municipality participated in the conference to deliberate on the energy transition scenarios for the case of port of Rotterdam.
 
 ## Papers
 
