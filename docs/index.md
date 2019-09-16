@@ -1,8 +1,6 @@
-# Values Deliberation Toolbox
+# Value Deliberation Toolbox
 
 ![Deliberation Photo](./valuestoolbox.png)
-
-[![Deliberation Photo](https://upload.wikimedia.org/wikipedia/commons/thumb/2/25/Haagse-magistraat.jpg/800px-Haagse-magistraat.jpg)](https://commons.wikimedia.org/wiki/File:Haagse-magistraat.jpg)
 
 Our societies often face complex problems where there are many differing views on how to resolve them. Sometimes, different individuals or groups might even have conflicting objectives for these problems. For example, high stakes policy programs like the energy transition and large infrastructure projects involve many stakeholders with a wide gamut of perspectives. We present a new (novel) methodology to accelerate the strategizing process by helping stakeholders understand each other’s values that they associate with different solutions to the problem.
 
@@ -10,9 +8,7 @@ Beyond more traditional approaches, research has shown that participants may coo
 
 The process works best where there are distinct strategies and participants are willing to listen to, work with, and cooperate with one another.  The overall objective is for them to better understand each other and become more willing to cooperate.
 
-## Try It Out
-
-[Download](https://github.com/jasonrwang/valuestoolbox/archive/master.zip)
+## The Toolbox
 
 The zip file includes:
 
@@ -21,17 +17,13 @@ The zip file includes:
 * Facilitator's Guide – printed document for facilitators
 * Ranking calculator – Excel template for quickly calculating the overall rankings
 
-[See on GitHub](https://github.com/jasonrwang/valuestoolbox/)
-
 ## Features and Roles
 
 * This project has been used with ... _examples_
 
-## Papers
+## Learn More
 
-1. Authors. (2019). Paper 1.
-2. Authors. (2019). Paper 2.
-3. Authors. (2019). Paper 3.
+1. Pigmans, K., Dignum, V., & Doorn, N. (2019). Group proximity and mutual understanding: Measuring onsite impact of a citizens’ summit. Journal of Public Policy, 1-23. doi:[10.1017/S0143814X19000230](https://doi.org/10.1017/S0143814X19000230)
 
 ## Contact
 
